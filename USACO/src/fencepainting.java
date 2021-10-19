@@ -44,4 +44,12 @@ public class fencepainting {
 		
 		
 	}
+	
+	/* int a = a.y - a.x;
+	 * int b = b.y - b.x;
+	 * int c = Math.max(0, Math.min(b.y-a.y) - Math.max(b.x - a.x));
+	 * int ans = a + b - c;
+	 * System.out.println(ans);
+	 */
+
 }
