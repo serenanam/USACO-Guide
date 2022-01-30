@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class whitesheet {
+public class CF1216 {
 	static Scanner in;
 	static pos ws, b1, b2;
 	public static void main(String[] args) {
